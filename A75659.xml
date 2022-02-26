@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles of high-treason drawn up in the name of all the commoners of England against one hundred and fifty judges, lawyers, and attornies: together with the charge exhibited against them; and a declaration to the people, shewing the grounds and reasons thereof. Also, eight propositions, to the inhabitants of each respective country, throughout England and Wales, and the method, and particular lawes, to be established. Likewise, the manner of administring justice; and in case any lawyer shall take either money, or bribes, to dye as a traytor to the Commonwealth; and the government to be established, as the Commonwealth of Israel was, in Mose's time. / Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75659</idno>
+            <idno type="STC">Wing A3849</idno>
+            <idno type="STC">Thomason E655_10</idno>
+            <idno type="STC">ESTC R205960</idno>
+            <idno type="EEBO-CITATION">99865174</idno>
+            <idno type="PROQUEST">99865174</idno>
+            <idno type="VID">166062</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75659)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166062)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 100:E655[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles of high-treason drawn up in the name of all the commoners of England against one hundred and fifty judges, lawyers, and attornies: together with the charge exhibited against them; and a declaration to the people, shewing the grounds and reasons thereof. Also, eight propositions, to the inhabitants of each respective country, throughout England and Wales, and the method, and particular lawes, to be established. Likewise, the manner of administring justice; and in case any lawyer shall take either money, or bribes, to dye as a traytor to the Commonwealth; and the government to be established, as the Commonwealth of Israel was, in Mose's time. / Published by authority.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 21 1651"; the 2 in the imprint date is crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166062:1" rendition="simple:additions"/>
+            <p>ARTICLES OF HIGH-TREASON Drawn up in the Name of all the Commo<g ref="char:EOLhyphen"/>ners of England againſt One Hundred and fifty Judges, Lawyers, and Attornies: Together with the <hi>Charge</hi> exhibited againſt them; And a Declaration to the People, ſhewing <hi>the Grounds and Reaſons thereof.</hi>
+            </p>
+            <p>
+               <hi>ALSO,</hi> Eight Propoſitions, to the Inhabitants of each reſpective County, throughout England and Wales, and the Method, and particular Lawes, to be eſtabliſhed.</p>
+            <p>
+               <hi>LIKEWISE,</hi> The manner of adminiſtring Juſtice; and in caſe any Lawyer ſhall take either Money, or Bribes, to dye as a Traytor to the Common<g ref="char:EOLhyphen"/>wealth; and the Government to be eſtabliſhed, as the Commonwealth of <hi>Iſrael</hi> was, in <hi>Moſe</hi>'s time.</p>
+            <p>
+               <add>feb: 21</add> Publiſhed by Authority.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>George Horton,</hi> 1652. <add>1651</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166062:2"/>
+            <pb n="3" facs="tcp:166062:2"/>
+            <head>A DECLARATION OF A glorious Reformation; and the Reſur<g ref="char:EOLhyphen"/>rection of the Law: &amp;c.</head>
+            <p>THe Government of a common-wealth is the uniting of the people of a Nation into one heart and mind; And bleſſed is that People, whoſe Earthly Government is the Law of common Righteouſneſs. When Iſrael was under a common<g ref="char:EOLhyphen"/>wealths Government, they were a terror to all Op<g ref="char:EOLhyphen"/>preſſing Kings in all Nations of the World; and ſo will England be, if this righteous Law become our Governor: But when the Officers of Iſrael began to be covetous and proud, they made a breach; and then the Government was altered, and fell into the hand of Kings like other Nations, and then they fled
+<pb n="4" facs="tcp:166062:3"/>before their Enemies and were ſcattered. But if we lôok upon the cuſtoms of the Law it ſelf, it is the ſame it was in the Kings dayes, onely the name is al<g ref="char:EOLhyphen"/>ter'd; as if the Commoners of England had paid their Taxes, Free-quarter, and ſhed their bloud, not to reform, but to baptize the Law into a new name, from Kingly Law, to State Law; by reaſon where<g ref="char:EOLhyphen"/>of the ſpirit of diſcontent is ſtrengthned, to increaſe more Suits of Law, then formerly was known to be: And ſo as the Sword pulls down Kingly power with one hand, the Kings old Law builds up Mo<g ref="char:EOLhyphen"/>narchy again with the other. And indeed the main work of Reformation lies in this, to reform the cler<g ref="char:EOLhyphen"/>gy, Lawyers, and Law; for all the complaints of the Land are wrapped up within them three, not in the perſon of a King; And for redreſs of theſe intolle<g ref="char:EOLhyphen"/>rable and Infidel-Tyranny, a Charge of High Trea<g ref="char:EOLhyphen"/>ſon is drawn up againſt 150 Judges, Lawyers, and Attornies, in the name of all the commoners of Eng<g ref="char:EOLhyphen"/>land, and conſiſts of theſe Heads, viz. 1 That they ſit in the Norman chair. 2 That their arbytrary Wills are Tyrannical Rules above the letter of the Law. 3 That many Caſes and Suits are lengthened to the great damage and vexation of the poor Clients, and to the lodging of their Eſtates in the purſe of the unbounded Lawyer. So that the courſe of the Law and Lawyers hath been a mere ſnare to entrap the
+<pb n="5" facs="tcp:166062:3"/>
+               <!-- PDF PAGE 112-->people, and to pull their Eſtates from them by craft; for they do uphold the conquerors Intereſt, and the peoples ſlavery. But now if the laws were few and ſhort, and often read, it would prevent thoſe Evils: As Moſes laws in Iſraels common-wealth: The people did talk of them when they lay down, and when they roſe up, and as they walked by the way; and bound them as bracelets upon their hands: ſo that they were an underſtanding people in the laws wherein their peace did depend.</p>
+            <p>As for the Common-wealths Government, it is the Reſtorer of ancient Peace, and long-loſt Free<g ref="char:EOLhyphen"/>doms (if it be right in power, as well as in name) and ſo becomes the joy of all Nations, and the bleſſing of the whole Earth. Therefore all you, who profeſſe Religion and ſpiritual things, now look to it, and ſee what ſpirit you do profeſſe, for your profeſſion is brought to tryal. If once Commonwealths Oovern<g ref="char:EOLhyphen"/>ment be ſet upon the Throne, then no Tyranny or Oppreſſion can look him in the face and live.</p>
+            <p>O ENGLAND; ENGLAND, wouldſt thou have thy Government ſound and healthful? then caſt about, and ſee, and ſearch diligently to find out all thoſe burthens that came in by Kings, and re<g ref="char:EOLhyphen"/>move them; and then will thy Government ariſe from under the clods, under which as yet it is bury<g ref="char:EOLhyphen"/>ed, and covered with deformity.</p>
+            <pb n="6" facs="tcp:166062:4"/>
+            <p> The Free-born People of this Nation have hum<g ref="char:EOLhyphen"/>bly remonſtrated their earneſt Deſires for Liberty and Freedom, to his Excellency the L. Gen. Further declaring themſelves in theſe words, That God hath made you a ſucceſsful Inſtrument to caſt out the Conqueror, and to recover our Land and Liberties again, by your Victories, out of that Norman hand. That which is yet wanting on your part to be done, is this, To ſee the Oppreſſors power to be caſt out with his perſon; and to ſee that the free poſſeſſion of the Land and Liberties be put into the hands of the Oppreſſed Commoners of England. For the Cr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn of Honour cannot be yours; neither can thoſe Victo<g ref="char:EOLhyphen"/>ries be called Victories on your part, till the Land &amp; Freedoms won be poſſeſſed by them who adventu<g ref="char:EOLhyphen"/>red perſon and purſe for them. Now you know Sir, that the Kingly Conqueror was not beaten by you onely as you are a ſingle man, nor by the Officers of the Army joyned to you; but by the hand and aſ<g ref="char:EOLhyphen"/>ſiſtance of the Commoners, whereof ſome came in perſon, and adventur'd their lives with you; others ſtaid at home, and planted the Farth, and paid Taxes and Free-quarter to maintain you that went to war. So that whatſoever is recovered from the Conquer<g ref="char:EOLhyphen"/>or, is recovered by a joynt conſent of the Commo<g ref="char:EOLhyphen"/>ners: therefore it is all Equity, That all the Com<g ref="char:EOLhyphen"/>moners who aſſiſted you, ſhould be ſet free from the
+<pb n="7" facs="tcp:166062:4"/>Conquerors power with you. And now you have the power of the Land in your hand, you muſt do one of theſe things: Firſt, either ſet the Land free to the Oppreſſed Commoners, who aſſiſted you, and paid the Army their wages; and then you will fulfil the Scriptures and your own Engagements, and ſo take poſſeſſion of your deſerved Honor. Or ſecond<g ref="char:EOLhyphen"/>ly, you muſt only remove the Conquerours power ont of the Kingly hand into other mens maintaining the old Laws ſtill: And then your Wiſdom and ho<g ref="char:EOLhyphen"/>nour is blaſted for ever; and you will either loſe your ſelf, or lay the foundation of greater ſlavery to poſterity then you ever knew. You have the eyes of the people all the Land over, nay I think I may ſay all neighboring Nations over, waiting to ſee what you will do: And the eyes of your oppreſſed friends, who lie yet under Kingly power, are waiting to have the poſſeſſion given them of that Freedom in the Land, which was promiſed by you, if in caſe you prevailed. Loſe not your Crown, take it up, &amp; wear it. But know, that it is no Crown of Honor, till Pro<g ref="char:EOLhyphen"/>miſes and Engagements, made by you, be perform<g ref="char:EOLhyphen"/>ed to your friends. And it is our deſire, That the Common-wealths Land, which is the ancient Com<g ref="char:EOLhyphen"/>mons and waſte Land, and the Lands newly got in, by the Armies Victories, out of the Oppreſſors hands, as Parks, Foreſts, Chaſes, and the like, may be
+<pb n="8" facs="tcp:166062:5"/>ſet free to all that have lent aſſiſtance, either of per<g ref="char:EOLhyphen"/>ſon on purſe, to obtain it; and to all that are willing to come in to the practice of this Government, and be obedient to the Laws thereof.</p>
+            <div type="part">
+               <head>Propoſitions for ſuch a Method of Laws, whereby a Common-wealth may be governed.</head>
+               <p n="1">1 The bare letter of the Law eſtabliſhed by Act of Parl. ſhall be the Rule for Officer and People, and the chief Judg of all Actions. 2 He or they who add or diminiſh from the <hi>Law,</hi> excepting in the Court of <hi>Parl.</hi> ſhall be caſhier'd his Office, and never bear Office more. 3 No man ſhall ad<g ref="char:EOLhyphen"/>miniſter the <hi>Law</hi> for money or reward; he that doth ſhall die as a Traytor to the Commonwealth: for when Money muſt buy and ſell Juſtice, there is nothing but Oppreſſion to be expected. 4 The <hi>Laws</hi> ſhall be read by the Miniſter to the people four times in the year, <hi>viz.</hi> every quarter, that every one may know whereunto they are to yield Obedi<g ref="char:EOLhyphen"/>ence. 5 No accuſation ſhall be taken againſt any man, unleſs it be proved by two or three Witneſſes, or his own confeſ<g ref="char:EOLhyphen"/>ſion. 6 The accuſer and the accuſed ſhall always appear face to face before any Officer, that both ſides may be heard, and no wrong to either party. 7 He who raiſes an accuſati<g ref="char:EOLhyphen"/>on againſt any man, and cannot prove it, ſhall ſuffer the ſame puniſhment the other ſhould. 8 He who ſtrikes his Neighbor, ſhall be ſtruck himſelf by the Executioner blow for blow, and ſhall loſe eye for eye, tooth for tooth, limb for limb, life for life; and the reaſon is, that men may be tender of one anothers bodies, doing as they would be done by.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
